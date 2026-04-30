@@ -20,14 +20,10 @@ Her Hood is a UI/UX design focused on creating a safe digital platform for women
 
 <p align="center">
 
-  <img src="Herhoodpage.png" width="250"/><br>Overall App model
-  <img src="Herhoodpage1.png" width="250"/><br>Pregnancy update and Home screen
-  <img src="Herhoodpage2.png" width="250"/><br>Menstruation update
-  <img src="Herhoodpage3.png" width="250"/><br>Login page
-
-
-
-
+  <img src="Herhoodpage.png" width="250"/><br>
+  <img src="Herhoodpage1.png" width="250"/><br>
+  <img src="Herhoodpage2.png" width="250"/><br>
+  <img src="Herhoodpage3.png" width="250"/><br>
 
   
 </p>
