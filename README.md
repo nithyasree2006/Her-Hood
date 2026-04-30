@@ -13,3 +13,9 @@ Her Hood is a UI/UX design focused on creating a safe digital platform for women
 - Clean UI design
 - User-friendly navigation
 - Community-based concept
+
+- ## 📸 Screenshots
+
+<p align="center">
+  <img src="Screenshot 2026-04-30 162722.png" width="300"/>
+</p>
